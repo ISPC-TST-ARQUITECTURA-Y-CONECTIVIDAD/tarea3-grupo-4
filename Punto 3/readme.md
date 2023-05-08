@@ -16,4 +16,5 @@
      para prender o apagar el LED"
 ##  IMPORTANTE: es necesario ejecutar Wokwi Gateway y habilitar la opción "Enable Private Wokwi IoT Gateway" a través de la tecla de atajo F1 en el editor de código.
 
-##  Para descargar Wokwi IoT Network Gateway aceda al siguiente link: https://github.com/wokwi/wokwigw/releases/
+##  Para descargar Wokwi IoT Network Gateway aceda al siguiente link: https://github.com/wokwi/wokwigw/releases/ o descargue a continuación:
+[wokwigw_v1.1.0_Windows_64bit.zip](https://github.com/ISPC-TST-ARQUITECTURA-Y-CONECTIVIDAD/tarea3-grupo-4/files/11424774/wokwigw_v1.1.0_Windows_64bit.zip)
